@@ -1,0 +1,10 @@
+{
+  "wifi_ssid": "YOUR_2.4GHZ_SSID",
+  "wifi_psk": "YOUR_WIFI_PASSWORD",
+  "console_url": "",
+  "enroll_token": "",
+  "hmac_secret": "",
+  "tls_insecure": false,
+  "heartbeat_sec": 30,
+  "vault_passphrase": "CHANGE-ME-minimum-8-chars-use-a-strong-unique-passphrase"
+}
